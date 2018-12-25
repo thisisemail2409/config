@@ -1,24 +1,18 @@
-{
+
   "ads": [
     {
       "status": 1,
-      "var1": "com.pdf.reader.test",
-      "var2": "469968116847006_473404646503353",
-      "var3": "",
-      "var4": "",
-      "var5": false,
-      "var6": "ca-app-pub-3940256099942544/6300978111",
-      "var7": ""
-    },
-       {
-      "status": 1,
-      "var1": "com.readercompany.pdf.reader",
-      "var2": "270481753652191_272074763492890",
-      "var3": "ca-app-pub-7415686935644926/1683269141",
-      "var4": "",
-      "var5": true,
-      "var6": "ca-app-pub-7415686935644926/7701882588",
-      "var7": "270481753652191_270481866985513"
+      "pkg": "com.readercompany.pdf.reader",
+      "fb": "270481753652191_272074763492890",
+      "admob": "ca-app-pub-7415686935644926/1683269141",
+      "unity": "1687662",
+      "enable": true,
+      "time-after-active": 186400,
+      "admob-banner": "ca-app-pub-7415686935644926/7701882588",
+      "fb-banner": "270481753652191_270481866985513",
+      "dc": "",
+      "inmobi": "",
+      "inmobi-banner": ""
     }
   ]
 }
