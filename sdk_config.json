@@ -1,18 +1,65 @@
-
-  "ads": [
+{
+  "promo": [],
+  "adsParam": [
     {
       "status": 1,
-      "pkg": "com.readercompany.pdf.reader",
-      "fb": "270481753652191_272074763492890",
-      "admob": "ca-app-pub-7415686935644926/1683269141",
-      "unity": "1687662",
+      "name": "first",
+      "value": "270481753652191_272074763492890",
+      "type": "1",
       "enable": true,
-      "time-after-active": 46400,
-      "admob-banner": "ca-app-pub-7415686935644926/7701882588",
-      "fb-banner": "270481753652191_270481866985513",
-      "dc": "",
-      "inmobi": "",
-      "inmobi-banner": ""
+      "defaultParam": "second",
+      "packageName": "",
+      "timeShow": 20000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 20,
+      "timeAfterActive": 0,
+      "showApplovin": false
+    },
+    {
+      "status": 1,
+      "name": "first_out",
+      "value": "ca-app-pub-6235432452268399/7303268272",
+      "type": "2",
+      "enable": true,
+      "defaultParam": "third",
+      "packageName": "",
+      "timeShow": 360000,
+      "timeAfterStart": 200000000,
+      "countShow": 0,
+      "maxShowDay": 3,
+      "timeAfterActive": 200000000,
+      "showApplovin": false
+    },
+    {
+      "status": 1,
+      "name": "second",
+      "value": "ca-app-pub-6235432452268399/7407387661",
+      "type": "2",
+      "enable": true,
+      "defaultParam": "third",
+      "packageName": "",
+      "timeShow": 10000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0,
+      "showApplovin": true
+    },
+    {
+      "status": 1,
+      "name": "third",
+      "value": "1553986830236",
+      "type": "5",
+      "enable": true,
+      "defaultParam": "",
+      "packageName": "",
+      "timeShow": 10000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0,
+      "showApplovin": false
     }
   ]
 }
